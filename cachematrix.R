@@ -1,6 +1,3 @@
-## Put comments here that give an overall description of what your
-## functions do
-
 ## Creates a special matrix data type which 
 ## has its inverse stored in cache. You can
 ## use its fuctions:
